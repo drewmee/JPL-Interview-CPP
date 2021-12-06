@@ -1,6 +1,4 @@
-===================
-Dare Mighty Things!
-===================
+# Dare Mighty Things!
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/drewmee/JPL-Interview-CPP/blob/master/LICENSE)
 
